@@ -14,6 +14,10 @@ public class CobaOperasiString {
         
         System.out.println("x adalah kosong : " +x.isEmpty());
         
+        String y = "";
+        System.out.println("isi variable y : " + y);
+        System.out.println("y adalah kosong : " + y.isEmpty());
+        
        
     }    
 }
